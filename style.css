@@ -11,3 +11,7 @@ header {
 img {
   margin: auto;
 }
+
+nav a {
+  padding: 0 10px;
+}
